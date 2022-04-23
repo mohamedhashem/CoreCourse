@@ -1,0 +1,10 @@
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\bin\Debug\netcoreapp3.1\Contractor.deps.json
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\bin\Debug\netcoreapp3.1\Contractor.dll
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\bin\Debug\netcoreapp3.1\Contractor.pdb
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.csproj.AssemblyReference.cache
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfoInputs.cache
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfo.cs
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.csproj.CoreCompileInputs.cache
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.dll
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.pdb

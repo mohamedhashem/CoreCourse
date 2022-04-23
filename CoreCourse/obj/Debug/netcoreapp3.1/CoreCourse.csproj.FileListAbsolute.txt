@@ -1,0 +1,92 @@
+D:\.Net Core\1.DivJeeks\CoreCourse\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.Net Core\1.DivJeeks\CoreCourse\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.Net Core\1.DivJeeks\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.exe
+D:\.Net Core\1.DivJeeks\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.deps.json
+D:\.Net Core\1.DivJeeks\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.runtimeconfig.json
+D:\.Net Core\1.DivJeeks\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.runtimeconfig.dev.json
+D:\.Net Core\1.DivJeeks\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.dll
+D:\.Net Core\1.DivJeeks\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.pdb
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.AssemblyInfoInputs.cache
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.AssemblyInfo.cs
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.csproj.CoreCompileInputs.cache
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\staticwebassets\CoreCourse.StaticWebAssets.Manifest.cache
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\staticwebassets\CoreCourse.StaticWebAssets.xml
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\scopedcss\bundle\CoreCourse.styles.css
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.RazorTargetAssemblyInfo.cache
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.dll
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.pdb
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.genruntimeconfig.cache
+D:\.Net Core\1.DivJeeks\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.csproj.AssemblyReference.cache
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.exe
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.deps.json
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.runtimeconfig.json
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.runtimeconfig.dev.json
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\CoreCourse.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.csproj.AssemblyReference.cache
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.AssemblyInfoInputs.cache
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.AssemblyInfo.cs
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.csproj.CoreCompileInputs.cache
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\staticwebassets\CoreCourse.StaticWebAssets.Manifest.cache
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\staticwebassets\CoreCourse.StaticWebAssets.xml
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\scopedcss\bundle\CoreCourse.styles.css
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.RazorTargetAssemblyInfo.cache
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\obj\Debug\netcoreapp3.1\CoreCourse.genruntimeconfig.cache
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\nlog.config
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\NLog.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Contractor.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Contractor.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Entities.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Entities.pdb

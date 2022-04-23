@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2yq5UoLwpFwiIi90Q8WtGRdkyEL+Ktrk66vogWjBrLkaDJg/pPgSxl/7MFlU47NQkeglgLCWpxpAAdjVO2NTpw==",
+  "success": true,
+  "projectFilePath": "D:\\.Net Core\\1.DivJeeks\\Core Course\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M.H-LAP\\.nuget\\packages\\nlog\\4.7.15\\nlog.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}

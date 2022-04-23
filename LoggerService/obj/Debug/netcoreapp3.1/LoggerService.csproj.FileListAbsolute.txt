@@ -1,0 +1,12 @@
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\bin\Debug\netcoreapp3.1\Contractor.dll
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\bin\Debug\netcoreapp3.1\Contractor.pdb
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
