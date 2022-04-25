@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UWcsC9w4Ru/3Nor8yz3O6K2Mii/rUCAmvkRaaBE4QGjF6LQaY8bYMM255Q4S6QsRoi6nwePdj5Rm/N18oAUofg==",
+  "dgSpecHash": "ns43hyytFSKRBEd2QvZDJpyRYgdI3vkRaRW0Qb9BCftoSnReVmVWLMLcd3sPj2FZfOW/TE5EqfSMKV6sduyUJA==",
   "success": true,
   "projectFilePath": "D:\\.Net Core\\1.DivJeeks\\Core Course\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\M.H-LAP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\M.H-LAP\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\M.H-LAP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\M.H-LAP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\M.H-LAP\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\M.H-LAP\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\M.H-LAP\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"

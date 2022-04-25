@@ -30,7 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\.Net Core\\1.DivJeeks\\Core Course\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\.Net Core\\1.DivJeeks\\Core Course\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -103,6 +107,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.16, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [

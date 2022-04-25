@@ -90,3 +90,8 @@ D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\
 D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Entities.dll
 D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Repository.dll
+D:\.Net Core\1.DivJeeks\Core Course\CoreCourse\bin\Debug\netcoreapp3.1\Repository.pdb

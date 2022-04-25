@@ -1,3 +1,4 @@
+using Contractor;
 using CoreCourse.Extentions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -33,19 +34,23 @@ namespace CoreCourse
             services.ConfigureCors(); // I used the Static Method that I Just Created in Extentions using Static and this 
             services.ConfigureLoggerService(); // Method Created For Logger in Extentiosn using Static and this
             services.ConfigureSqlContext(Configuration);
+            services.AddAutoMapper(typeof(Startup));
+            services.ConfigureRepoManager();
             services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerManager logger)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            app.ConfigureExceptionHandler(logger);
 
+            app.UseHttpsRedirection();
+            
             app.UseRouting();
 
             app.UseAuthorization();

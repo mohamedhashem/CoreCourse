@@ -8,3 +8,5 @@ D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contracto
 D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.csproj.CoreCompileInputs.cache
 D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.dll
 D:\.Net Core\1.DivJeeks\Core Course\Contractor\obj\Debug\netcoreapp3.1\Contractor.pdb
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\bin\Debug\netcoreapp3.1\Entities.dll
+D:\.Net Core\1.DivJeeks\Core Course\Contractor\bin\Debug\netcoreapp3.1\Entities.pdb

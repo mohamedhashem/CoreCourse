@@ -6,8 +6,8 @@ namespace Contractor
 {
     public interface IRepoManager
     {
-        ICompanyRepo company { get; }
-        IEmployeeRepo employee { get; }
+        ICompanyRepo Company { get; }
+        IEmployeeRepo Employee { get; }
 
         void Save();
     }

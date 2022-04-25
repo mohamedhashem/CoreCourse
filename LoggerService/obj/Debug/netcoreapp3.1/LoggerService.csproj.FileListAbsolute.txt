@@ -10,3 +10,6 @@ D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\Logger
 D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
 D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
 D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+D:\.Net Core\1.DivJeeks\Core Course\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

@@ -4,6 +4,7 @@ using LoggerService;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using Repository;
 
 namespace CoreCourse.Extentions
 {
@@ -17,12 +18,13 @@ namespace CoreCourse.Extentions
         /// Allow Any Origin
         /// Allow Any HTTP Methods like Get, Put, Delete </summary>
         /// <param name="services"></param>
-        public static void ConfigureCors(this IServiceCollection services)     {
+        public static void ConfigureCors(this IServiceCollection services)
+        {
             services.AddCors(options =>
             {
-                options.AddPolicy("CorsPolicy", builder =>   
-                builder.AllowAnyOrigin()                  
-                .AllowAnyMethod()                         
+                options.AddPolicy("CorsPolicy", builder =>
+                builder.AllowAnyOrigin()
+                .AllowAnyMethod()
                 .AllowAnyHeader());
             });
         }
@@ -52,11 +54,13 @@ namespace CoreCourse.Extentions
         public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<RepoContext>(options =>
-            options.UseSqlServer(configuration.GetConnectionString("CS"),
-            b =>b.MigrationsAssembly("CoreCourse")
-            )
-            );
+                options.UseSqlServer(configuration.GetConnectionString("CS"),
+                b => b.MigrationsAssembly("CoreCourse")
+            ));
         }
+
+        public static void ConfigureRepoManager(this IServiceCollection services) =>
+            services.AddScoped<IRepoManager, RepoManager>();
     }
 
 
@@ -64,3 +68,4 @@ namespace CoreCourse.Extentions
 
 
 }
+ 
